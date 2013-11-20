@@ -177,6 +177,22 @@ have been rewritten, the rest of the system remains unchanged.*
 
 [<img src="https://raw.github.com/ics-software-engineering/play-example-form/master/doc/play-example-form-screencast.png" width="400">](http://www.youtube.com/watch?v=247H9NVpMME)
 
+ER Design
+---------
+![screenshot](https://raw.github.com/alvinwkwang/play-example-form/master/er-design.png)
+
+Here is an ER Diagram of what users of play-example-form can do.
+The following actions can be made:
+
+* List all students who have submitted the form.
+* Find any students with a particular: (a) hobby, (b) level, (c) gpa, or (d) major.
+* Create a new hobby or delete an existing hobby
+* Create a new Level or delete an existing level
+* Create a new GPA interval or delete an existing interval
+* Create a new major or delete an existing major.
+
+
+
     
 Acknowledgements
 ----------------
