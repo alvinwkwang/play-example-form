@@ -179,7 +179,7 @@ have been rewritten, the rest of the system remains unchanged.*
 
 ER Design
 ---------
-![screenshot](https://raw.github.com/alvinwkwang/play-example-form/master/er-design.png)
+![screenshot](https://raw.github.com/alvinwkwang/play-example-form/master/doc/er-design.png)
 
 Here is an ER Diagram of what users of play-example-form can do.
 The following actions can be made:
